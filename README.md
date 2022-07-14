@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am new in GitHub and exploring its features.
+
 <!--
 **AthanDim/AthanDim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
